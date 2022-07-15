@@ -21,6 +21,3 @@
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  
  
- SOCIALS
- ![Twitter](https://twitter.com/JulietMesoma?t=j9VJtpuq6IjCnVaMFgdIAw&s=09)
- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/julietofoegbu)
