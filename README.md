@@ -7,4 +7,5 @@
 - 📫 How to reach me: https://www.linkedin.com/in/julietofoegbu
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Tech enthusiast, game lover
--->
+ TECH STACK
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
