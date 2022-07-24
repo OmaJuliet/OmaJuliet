@@ -1,13 +1,21 @@
-### Hi there 👋
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Juliet
+==============================================================================================================================
+
+A Frontend Developer
+--------------------
+
 ![frontend-development-1024x637-removebg-preview-removebg-preview](https://user-images.githubusercontent.com/77335123/179234694-99fd61d6-c9c9-4726-9c9e-a409d901dfbb.png)
 
-- 🔭 I’m currently working on building more projects
-- 🌱 I’m currently learning react and improving my javascript skill
-- 👯 I’m looking to collaborate with designers and developers to bring web designs to life.
-- 🤔 I’m looking for help with ReactJs materials and resources.
-- 📫 How to reach me: https://www.linkedin.com/in/julietofoegbu
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Tech enthusiast, game lover
+I'm proficient with building the user interfaces of websites and applications which will be functional, responsive, scalable and aesthetically pleasing to users.
+
+* 🌍  I'm based in Lagos, Nigeria
+* 🖥️  Here's my portfolio at [Juliet's portfolio](http://julies-portfolio.netlify.app)
+* ✉️  You can contact me at [julieto2001@gmail.com](mailto:julieto2001@gmail.com)
+* 🧠  I'm learning React and improving my JavaScript skills
+* 🤝  I'm open to collaborating on projects. Designers and developers collab projects
+* ⚡  Game lover, Tech Enthusiast
+
 
 
  TECH STACK
