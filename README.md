@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Juliet
 ==============================================================================================================================
 
-A Frontend Developer and Technical Writer
+A Web Developer and Technical Writer
 --------------------
 
 ![frontend-development-1024x637-removebg-preview-removebg-preview](https://user-images.githubusercontent.com/77335123/179234694-99fd61d6-c9c9-4726-9c9e-a409d901dfbb.png)
