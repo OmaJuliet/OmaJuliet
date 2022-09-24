@@ -10,7 +10,7 @@ A Web Developer and Technical Writer
 I'm proficient with building the user interfaces of websites and applications which will be functional, responsive, scalable and aesthetically pleasing to users.
 
 * 🌍  I'm based in Lagos, Nigeria
-* 🖥️  Here's my portfolio at [Juliet's portfolio](http://julies-portfolio.netlify.app)
+* 🖥️  Portfolio: Still under major renovation
 * ✉️  You can contact me at [julieto2001@gmail.com](mailto:julieto2001@gmail.com)
 * 🧠  I'm learning React and improving my JavaScript skills
 * 🤝  I'm open to collaborating on projects. Designers and developers collab projects
