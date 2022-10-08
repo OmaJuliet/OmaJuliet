@@ -6,7 +6,7 @@ A Web Developer and Technical Writer
 --------------------
 
 
-I'm proficient with building the user interfaces of websites and applications which will be functional, responsive, scalable and aesthetically pleasing to users.
+I'm proficient with building the user interfaces of websites and applications which will be functional, responsive, and aesthetically pleasing to users.
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  Portfolio: Still under major renovation
