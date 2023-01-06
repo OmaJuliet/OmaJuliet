@@ -11,7 +11,7 @@ I'm proficient with building the user interfaces of websites and applications wh
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  Portfolio: Still under major renovation
 * ✉️  You can contact me via [email](mailto:julieto2001@gmail.com)
-* 🧠  I'm learning React and improving my JavaScript skills
+* 🧠  I'm learning Nextjs, Material UI and improving my React skills
 * 🤝  I'm open to collaborating on projects. Designers and developers collab projects
 * ⚡  Game lover, Tech Enthusiast
 
