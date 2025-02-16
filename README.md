@@ -24,7 +24,7 @@ I love turning raw data into meaningful insights and crafting clear, concise tec
  ### Tech Stack
 
 
- ![Excel](hgithub/img.shields.io/badge/excel-%23F05033.svg?style=for-the-badge&logo=excel&logoColor=white)
+ ![Excel](https://img.shields.io/badge/excel-%23F05033.svg?style=for-the-badge&logo=excel&logoColor=white)
  ![Power BI](https://img.shields.io/badge/powerbi-%23F05033.svg?style=for-the-badge&logo=powerbi&logoColor=white)
  ![Tableau](https://img.shields.io/badge/tableau-%23F05033.svg?style=for-the-badge&logo=tableau&logoColor=white)
  ![Google Looker Studio](https://img.shields.io/badge/tableau-%23F05033.svg?style=for-the-badge&logo=tableau&logoColor=white)
